@@ -9,7 +9,7 @@ Press R to reset flight speed to default.
 
 These keys can be changed in 'Control'.
 
-完整名称:创造模式飞行速度调整
+完整名称 : 创造模式飞行速度调整
 
 一个创造模式下调整飞行速度的模组。
 
