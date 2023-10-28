@@ -1,0 +1,3 @@
+v1	named	intermediary
+FIELD	io/github/cylindr306/cfsa/mixin/MouseMixin	Lnet/minecraft/client/MinecraftClient;	client	field_1779
+FIELD	io/github/cylindr306/cfsa/mixin/MouseMixin	D	eventDeltaVerticalWheel	field_45297

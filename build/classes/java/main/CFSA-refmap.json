@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "io/github/cylindr306/cfsa/mixin/MouseMixin": {
+      "Lnet/minecraft/client/Mouse;eventDeltaHorizontalWheel:D": "Lnet/minecraft/class_312;field_45296:D",
+      "onMouseScroll": "Lnet/minecraft/class_312;method_1598(JDD)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "io/github/cylindr306/cfsa/mixin/MouseMixin": {
+        "Lnet/minecraft/client/Mouse;eventDeltaHorizontalWheel:D": "Lnet/minecraft/class_312;field_45296:D",
+        "onMouseScroll": "Lnet/minecraft/class_312;method_1598(JDD)V"
+      }
+    }
+  }
+}

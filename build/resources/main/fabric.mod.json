@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "cfsa",
+  "version": "0.1.0",
+  "name": "CFSA",
+  "description": "A mod that adjusts flight speed in creative mode.",
+  "authors": [
+    "Cylindr306"
+  ],
+  "contact": {
+    "website": "https://github.com/Cylindr306/CFSA",
+    "repo": "https://github.com/Cylindr306/CFSA"
+  },
+  "license": "MIT",
+  "icon": "assets/cfsa/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "io.github.cylindr306.cfsa.client.CFSAClient"
+    ],
+    "main": [
+      "io.github.cylindr306.cfsa.CFSA"
+    ]
+  },
+  "mixins": [
+    "cfsa.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.24",
+    "fabric": "*",
+    "minecraft": "1.20.2"
+  }
+}
